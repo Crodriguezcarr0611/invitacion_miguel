@@ -65,7 +65,7 @@ function activarMusica() {
 document.addEventListener("DOMContentLoaded", function () {
   Swal.fire({
     icon: "question",
-    title: "¿Están listas?",
+    title: "¿Está listo?",
     iconColor: "green",
     // ANIMACIONES AQUÍ:
     showClass: {
